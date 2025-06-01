@@ -325,3 +325,15 @@
 2025-06-01 15:20:48 INFO data_prep :: Dropping sparse columns: ['MarkDown1', 'MarkDown2', 'MarkDown3', 'MarkDown4', 'MarkDown5']
 2025-06-01 15:20:48 INFO data_prep :: Merging datasets …
 2025-06-01 15:20:48 INFO data_prep :: Merged dataset shape: (421570, 12)
+2025-06-01 19:47:38 INFO data_prep :: Loaded Features.csv -> (8190, 12)
+2025-06-01 19:47:38 INFO data_prep :: Loaded sales.csv -> (421570, 5)
+2025-06-01 19:47:38 INFO data_prep :: Loaded stores.csv -> (45, 3)
+2025-06-01 19:47:38 INFO data_prep :: Dropping sparse columns: ['MarkDown1', 'MarkDown2', 'MarkDown3', 'MarkDown4', 'MarkDown5']
+2025-06-01 19:47:38 INFO data_prep :: Merging datasets …
+2025-06-01 19:47:38 INFO data_prep :: Merged dataset shape: (421570, 12)
+2025-06-01 20:32:39 INFO data_prep :: Loaded Features.csv -> (8190, 12)
+2025-06-01 20:32:39 INFO data_prep :: Loaded sales.csv -> (421570, 5)
+2025-06-01 20:32:39 INFO data_prep :: Loaded stores.csv -> (45, 3)
+2025-06-01 20:33:07 INFO data_prep :: Dropping sparse columns: ['MarkDown1', 'MarkDown2', 'MarkDown3', 'MarkDown4', 'MarkDown5']
+2025-06-01 20:33:39 INFO data_prep :: Merging datasets …
+2025-06-01 20:33:39 INFO data_prep :: Merged dataset shape: (421570, 12)
